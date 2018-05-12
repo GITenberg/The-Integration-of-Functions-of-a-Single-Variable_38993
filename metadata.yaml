@@ -1,0 +1,43 @@
+_repo: The-Integration-of-Functions-of-a-Single-Variable_38993
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hardy, G. H. (Godfrey Harold)
+    alias: Hardy, Godfrey Harold
+    birthdate: 1877
+    deathdate: 1947
+    gutenberg_agent_id: '39236'
+    url: http://www.gutenberg.org/2009/agents/39236
+    wikipedia: http://en.wikipedia.org/wiki/G._H._Hardy
+  editors:
+  - agent_name: Hall, Philip
+    alias: Hall, P.
+    birthdate: 1904
+    deathdate: 1982
+    gutenberg_agent_id: '39802'
+    url: http://www.gutenberg.org/2009/agents/39802
+  - agent_name: Smithies, F. (Frank)
+    alias: Smithies, Frank
+    birthdate: 1912
+    deathdate: 2002
+    gutenberg_agent_id: '39803'
+    url: http://www.gutenberg.org/2009/agents/39803
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2012-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Calculus, Integral'
+- !lcc 'QA'
+- !lcsh 'Variables (Mathematics)'
+title: The Integration of Functions of a Single Variable
+url: http://www.gutenberg.org/ebooks/38993
